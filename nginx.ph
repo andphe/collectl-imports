@@ -176,7 +176,4 @@ sub nginxPrintExport
   }
 }
 
-sub doCurl
-{
-}
 1;
